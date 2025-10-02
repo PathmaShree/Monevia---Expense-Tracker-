@@ -29,9 +29,9 @@ git clone https://github.com/PathmaShree/monevia-budget-tracker.git
 ## 2. NAVIGATE TO THE PROJECT FOLDER  
 cd monevia-budget-tracker  
 
-Open index.html in your web browser  
-Start tracking your finances by adding income and expense transactions.  
-Charts and totals will update dynamically.  
+- Open index.html in your web browser  
+- Start tracking your finances by adding income and expense transactions.  
+- Charts and totals will update dynamically.  
 
 
 
